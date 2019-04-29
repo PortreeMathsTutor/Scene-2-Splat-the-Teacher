@@ -1,0 +1,6 @@
+OnlineHighscores (Text)
+Restart message also text.
+Button called Online Scores.
+The button is connected to tow On Click() elements
+1 SubmitAndLoadScores.SubmitScoresAndNameToOnlineData
+2 submitAndLoadScores.LoadScoresfromDataBase
